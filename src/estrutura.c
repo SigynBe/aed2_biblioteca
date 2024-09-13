@@ -1,4 +1,7 @@
-// estrutura.c
+// Autores: 
+// Luiz Daniel Marinho dos Santos - 21953119
+// Rebeca Pacheco Correa - 21953259
+
 #include "livro.h"
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,3 +1,7 @@
+// Autores: 
+// Luiz Daniel Marinho dos Santos - 21953119
+// Rebeca Pacheco Correa - 21953259
+
 #include "stdio.h"
 
 int main(){

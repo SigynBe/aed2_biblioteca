@@ -1,4 +1,6 @@
-
+Autores: 
+Luiz Daniel Marinho dos Santos - 21953119
+Rebeca Pacheco Correa - 21953259
 # aed2_biblioteca
 
 ## Instrução de Uso

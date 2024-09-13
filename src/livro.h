@@ -1,4 +1,6 @@
-// livro.h
+// Autores: 
+// Luiz Daniel Marinho dos Santos - 21953119
+// Rebeca Pacheco Correa - 21953259
 #ifndef LIVRO_H
 #define LIVRO_H
 
