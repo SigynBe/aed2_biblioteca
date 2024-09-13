@@ -4,14 +4,14 @@ int main(){
     char CMD[30];
     char titulo[100];
     char autor[100];
-    char ISDN[50];
+    char isbn[50];
     char ano[6];
     char separador[4];
 
     scanf("%s ", CMD);
     //printf("%s\n", CMD);
-    scanf("%[^;]s", ISDN);
-    //printf("%s\n", ISDN);
+    scanf("%[^;]s", isbn);
+    //printf("%s\n", isbn);
     scanf("%s ",separador);
     scanf("%[^;]s", titulo);
     //printf("%s\n", titulo);
@@ -21,6 +21,6 @@ int main(){
     scanf("%s ",separador);
     scanf("%s", ano);
     //printf("%s\n", ano);
-    printf("%s|%s|%s|%s|%s\n", CMD, ISDN, titulo, autor, ano);
+    printf("%s|%s|%s|%s|%s\n", CMD, isbn, titulo, autor, ano);
 
 }
